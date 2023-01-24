@@ -1,0 +1,19 @@
+{
+    "centre": {
+        "name": "Mon centre DB"
+    },
+    "params": {
+        "params": {
+            "param0": 22,
+            "param1": true,
+            "param2": "ready",
+            "param3": "param3",
+            "param4": 1,
+            "param5": 2,
+            "param6": 3,
+            "param7": "enabled",
+            "param8": false,
+            "param9": false                
+        }
+    }
+}

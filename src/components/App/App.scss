@@ -1,0 +1,22 @@
+.app {
+  text-align: center;
+  background-color: whitesmoke;
+  height: 100vh;
+
+  header {
+    background-color: darkslategray;
+    padding: 15px;
+    .nav {
+      color: cadetblue;
+      text-transform: uppercase;
+      font-size: 1.4em;
+      font-weight: 500;
+      padding: 0 10px;
+  
+      &.is-active {
+        color: gray;
+      }
+    }
+  }
+}
+

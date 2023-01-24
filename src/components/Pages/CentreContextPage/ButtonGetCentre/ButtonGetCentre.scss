@@ -1,0 +1,13 @@
+.button-getcentre {
+    font-size: 1.5em;
+    margin-top: 20px;
+    border: 2px solid cadetblue;
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color: rgba(0,0,0,0.2);
+    color: cadetblue;
+    &:hover {
+        cursor:pointer;
+        background-color: rgba(0,0,0,0.3);
+    }
+}
